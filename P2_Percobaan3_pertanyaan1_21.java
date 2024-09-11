@@ -2,7 +2,7 @@ package latihan2.daspro_jobsheet2;
 
 public class P2_Percobaan3_pertanyaan1_21 {
     public static void main(String[] args) {
-        System.out.println("|NO|KODE MK\t|MATA KULIAH\t\t\t\t|SEMESTER|SKS|JAM|");
+        System.out.println("|NO|KODE MK    |MATA KULIAH\t\t\t\t|SEMESTER|SKS|JAM|");
         System.out.println("==========================================================================");
         System.out.println("|1 |RTI241001\t|Pancasila\t\t\t\t|1\t |2  |2  |");
         System.out.println("--------------------------------------------------------------------------");
