@@ -14,11 +14,11 @@ public class Percobaan3 {
         System.out.println("--------------------------------------------------------------------------");
         System.out.println("|5 |RTI241005\t|Rekayasa perangkat Lunak\t\t|1\t |2  |4  |");
         System.out.println("--------------------------------------------------------------------------");
-        System.out.println("|6 |RTI241006\t|Dasar pemrograman\t\t\t|1\t |2  |4  |");
+        System.out.println("|6 |RTI241006\t|Dasar pemrograman\t\t\t|1\t |2  | 4 |");
         System.out.println("--------------------------------------------------------------------------");
-        System.out.println("|7 |RTI241007\t|Pratikum Dasar Pemrograma\t\t|1\t |3  |6  |");
+        System.out.println("|7 |RTI241007\t|Pratikum Dasar Pemrograma\t\t|1\t |3  | 6 |");
         System.out.println("--------------------------------------------------------------------------");
-        System.out.println("|8 |RTI241008\t|Keselamatan dan Kesehatan Kerja\t|1\t |2  |4  |");
+        System.out.println("|8 |RTI241008\t|Keselamatan dan Kesehatan Kerja\t|1\t |2  | 4 |");
         System.out.println("==========================================================================");
 
     }
